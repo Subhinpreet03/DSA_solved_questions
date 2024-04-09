@@ -42,3 +42,6 @@ for n in nums:
     hashset.add(n)
 return False
 """
+if __name__ == '__main__':
+    list_num = [1,2,3,1]
+    print(check_duplicates(list_num))

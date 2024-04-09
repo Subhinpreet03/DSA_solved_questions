@@ -43,4 +43,4 @@ def check_non_decreasing_array(nums):
 
 if __name__ == '__main__':
     list_of_array = [4,2,3]
-    print(check_non_decreasing_array(list_of_array))
+    print(check_non_decreasing_array(list_of_array))    
